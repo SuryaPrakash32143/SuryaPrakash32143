@@ -1,23 +1,21 @@
 # Hi, I'm Surya Prakash 👋
 
-Computer Science Engineering Student passionate about AI, Machine Learning, and Software Development.
+Computer Science Engineering Student passionate about Artificial Intelligence and Machine Learning.
 
 ## 🚀 Currently Learning
 - Machine Learning
-- Deep Learning
-- Data Science
-- Computer Vision
 
 ## 🛠 Technologies
 - Python
-- C++
 - Git & GitHub
 - NumPy
 - Pandas
 - Scikit-Learn
 
 ## 📌 Current Focus
-Building practical AI/ML projects and strengthening software engineering skills.
+Building practical AI/ML projects and strengthening skills.
 
 ## 📫 Connect
-- LinkedIn: (add link)
+- LinkedIn: [Surya Prakash](https://www.linkedin.com/in/surya-prakash-mullapudi-585355332/)
+
+##  Projects
