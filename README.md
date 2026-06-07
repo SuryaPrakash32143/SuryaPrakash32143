@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Surya Prakash 👋
 
-<!--
-**SuryaPrakash32143/SuryaPrakash32143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Engineering Student passionate about AI, Machine Learning, and Software Development.
 
-Here are some ideas to get you started:
+## 🚀 Currently Learning
+- Machine Learning
+- Deep Learning
+- Data Science
+- Computer Vision
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Technologies
+- Python
+- C++
+- Git & GitHub
+- NumPy
+- Pandas
+- Scikit-Learn
+
+## 📌 Current Focus
+Building practical AI/ML projects and strengthening software engineering skills.
+
+## 📫 Connect
+- LinkedIn: (add link)
