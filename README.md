@@ -1,6 +1,6 @@
 # Hi, I'm Surya Prakash 👋
 
-Computer Science Engineering Student passionate about Artificial Intelligence and Machine Learning.
+Computer Science Engineering student passionate about Artificial Intelligence, Machine Learning, and building practical AI applications.
 
 ## 🚀 Currently Learning
 - Machine Learning
@@ -11,6 +11,7 @@ Computer Science Engineering Student passionate about Artificial Intelligence an
 - NumPy
 - Pandas
 - Scikit-Learn
+- Streamlit
 
 ## 📌 Current Focus
 Building practical AI/ML projects and strengthening skills.
@@ -18,4 +19,6 @@ Building practical AI/ML projects and strengthening skills.
 ## 📫 Connect
 - LinkedIn: [Surya Prakash](https://www.linkedin.com/in/surya-prakash-mullapudi-585355332/)
 
-##  Projects
+## 🗂️ Projects
+
+- 🏠 [Housing Price Prediction](https://github.com/SuryaPrakash32143/Housing-Price-Prediction) |
