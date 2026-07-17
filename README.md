@@ -21,4 +21,4 @@ Building practical AI/ML projects and strengthening skills.
 
 ## 🗂️ Projects
 
-- 🏠 [Housing Price Prediction](https://github.com/SuryaPrakash32143/Housing-Price-Prediction) |
+- 🏠 [Housing Price Prediction](https://github.com/SuryaPrakash32143/Housing-Price-Prediction) | [LIVE DEMO](https://housing-price-ai.streamlit.app/)
