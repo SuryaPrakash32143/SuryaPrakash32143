@@ -22,3 +22,4 @@ Building practical AI/ML projects and strengthening skills.
 ## 🗂️ Projects
 
 - 🏠 [Housing Price Prediction](https://github.com/SuryaPrakash32143/Housing-Price-Prediction) | [LIVE DEMO](https://housing-price-ai.streamlit.app/)
+- 📄 [AI Resume Reviewer](https://github.com/SuryaPrakash32143/RESUME-REVIEWER) | [LIVE DEMO](https://ai-resume-reviewer-v1.streamlit.app/)
