@@ -12,6 +12,7 @@ Computer Science Engineering student passionate about Artificial Intelligence, M
 - Pandas
 - Scikit-Learn
 - Streamlit
+- Google Gemini API
 
 ## 📌 Current Focus
 Building practical AI/ML projects and strengthening skills.
