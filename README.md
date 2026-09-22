@@ -3,7 +3,8 @@
 Computer Science Engineering student passionate about Artificial Intelligence, Machine Learning, and building practical AI applications.
 
 ## 🚀 Currently Learning
-- Machine Learning
+- RAG
+- LangChain
 
 ## 🛠 Technologies
 - Python
@@ -13,6 +14,8 @@ Computer Science Engineering student passionate about Artificial Intelligence, M
 - Scikit-Learn
 - Streamlit
 - Google Gemini API
+- Machine Learning
+- Vector Embedding
 
 ## 📌 Current Focus
 Building practical AI/ML projects and strengthening skills.
